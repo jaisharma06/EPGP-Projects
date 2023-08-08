@@ -16,8 +16,6 @@
     - [@jaisharma06](#jaisharma06)
     - [@Jithendrian](#jithendrian)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 
 ### Business Understanding
