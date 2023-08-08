@@ -72,7 +72,7 @@ This project was made as an assignment for the Lending Club Case Study problem. 
 
 
 ## Contact
-Created by
+Created by -
 
 ### [@jaisharma06](https://github.com/jaisharma06)</br>
 Name - Jai Prakash</br>
