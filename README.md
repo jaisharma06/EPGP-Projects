@@ -55,10 +55,11 @@ When a person applies for a loan, there are two types of decisions that could be
 2. **Loan rejected**: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Higher the interest rate higher charged off ratio
+- Higher the annual income higher the loan amount slightly
+- Interest rate is increasing with loan amount increase this results in high charged off.
+- Mostly applicants take loan for debt consolidation and hence the highest default rate is in the same category
+- Surprisingly verified loans has more default rate than unverified default rates.
 
 ## Technologies Used
 - Python - version 3.11.0
@@ -82,5 +83,7 @@ Phone - +91-8447490922
 Name - Jithendrian Sundaravaradan</br>
 Email - [jithendrian@gmail.com](mailto:jithendrian@gmail.com)</br>
 Phone - +91-8447490922</br>
+
+*Alternate github repository link - [https://github.com/Jithendrian/MLProjects](https://github.com/Jithendrian/MLProjects)*
 
 feel free to contact us :smiley:!
