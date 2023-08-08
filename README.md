@@ -67,7 +67,7 @@ When a person applies for a loan, there are two types of decisions that could be
 - Seaborn - version 0.12.2
 
 ## Acknowledgements
-This project was made as an assignment for the Lending club case study problem. Thank you UpGrad for providing us an opportunity to work on this.
+This project was made as an assignment for the Lending Club Case Study problem. Thank you UpGrad for providing us an opportunity to work on this.
 
 
 ## Contact
@@ -83,4 +83,4 @@ Name - Jithendrian Sundaravaradan</br>
 Email - [jithendrian@gmail.com](mailto:jithendrian@gmail.com)</br>
 Phone - +91-8447490922</br>
 
-feel free to contact us!
+feel free to contact us :smiley:!
