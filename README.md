@@ -83,6 +83,6 @@ Email - [jithendrian@gmail.com](mailto:jithendrian@gmail.com)</br>
 Phone - +91-9686831200</br>
 
 *Alternate github repository link - [https://github.com/Jithendrian/MLProjects](https://github.com/Jithendrian/MLProjects)*</br>
-*Presentation Link - [Lending Club Case Study](https://github.com/jaisharma06/EPGPProjects/blob/main/LendingClubCaseStudy/Lending_Club_Case_Study.pdf)*
+*Presentation Link - [Lending Club Case Study](https://github.com/jaisharma06/EPGP-Projects/blob/main/LendingClubCaseStudy/Lending_Club_Case_Study.pdf)*
 
 feel free to contact us :smiley:!
